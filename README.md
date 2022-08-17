@@ -1,2 +1,2 @@
 # Maude
-Financial data analysis dashboard
+Financial data analysis dashboards
